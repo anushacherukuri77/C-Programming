@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Practice TZ\ArrayPosition\bin\Debug\ArrayPosition.exe
+C:\Users\Admin\Desktop\Practice TZ\ArrayPosition\bin\Debug\ArrayPosition.pdb
+C:\Users\Admin\Desktop\Practice TZ\ArrayPosition\obj\Debug\ArrayPosition.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Practice TZ\ArrayPosition\obj\Debug\ArrayPosition.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice TZ\ArrayPosition\obj\Debug\ArrayPosition.exe
+C:\Users\Admin\Desktop\Practice TZ\ArrayPosition\obj\Debug\ArrayPosition.pdb

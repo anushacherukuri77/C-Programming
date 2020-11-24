@@ -1,0 +1,6 @@
+C:\Users\Admin\Desktop\Practice TZ\Encapsulation\obj\Debug\Encapsulation.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Practice TZ\Encapsulation\obj\Debug\Encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Practice TZ\Encapsulation\bin\Debug\Encapsulation.exe
+C:\Users\Admin\Desktop\Practice TZ\Encapsulation\bin\Debug\Encapsulation.pdb
+C:\Users\Admin\Desktop\Practice TZ\Encapsulation\obj\Debug\Encapsulation.exe
+C:\Users\Admin\Desktop\Practice TZ\Encapsulation\obj\Debug\Encapsulation.pdb

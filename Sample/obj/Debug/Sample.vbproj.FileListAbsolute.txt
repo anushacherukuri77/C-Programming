@@ -1,0 +1,10 @@
+C:\Users\Admin\Desktop\C# Programming\Sample\bin\Debug\Sample.dll
+C:\Users\Admin\Desktop\C# Programming\Sample\bin\Debug\Sample.pdb
+C:\Users\Admin\Desktop\C# Programming\Sample\bin\Debug\Sample.xml
+C:\Users\Admin\Desktop\C# Programming\Sample\obj\Debug\Sample.vbprojAssemblyReference.cache
+C:\Users\Admin\Desktop\C# Programming\Sample\obj\Debug\Sample.Resources.resources
+C:\Users\Admin\Desktop\C# Programming\Sample\obj\Debug\Sample.vbproj.GenerateResource.cache
+C:\Users\Admin\Desktop\C# Programming\Sample\obj\Debug\Sample.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C# Programming\Sample\obj\Debug\Sample.dll
+C:\Users\Admin\Desktop\C# Programming\Sample\obj\Debug\Sample.xml
+C:\Users\Admin\Desktop\C# Programming\Sample\obj\Debug\Sample.pdb
