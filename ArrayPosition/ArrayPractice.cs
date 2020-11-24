@@ -25,6 +25,9 @@ namespace Arrays
             Console.WriteLine("The third value of float array is:" + a.f[2]);
             Console.WriteLine("The second value of double array is:" + a.d[1]);
             Console.WriteLine("The second value of boolean array is:" + a.b[1]);
+            Console.WriteLine("The second value of boolean array is:" + a.b[1]);
+
+
         }
     }
 }
